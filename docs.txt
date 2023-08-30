@@ -1,0 +1,13 @@
+requirments sheet:
+accounts app 
+
+django :- pip install django 
+
+djangorestframework :- pip install djangorestframework
+
+reddis:- pip install redis
+
+jwt:- pip install djangorestframework-simplejwt
+https://django-rest-framework-simplejwt.readthedocs.io/en/latest/creating_tokens_manually.html
+
+cors headers:-  python -m pip install django-cors-headers
